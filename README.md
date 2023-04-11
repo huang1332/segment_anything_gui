@@ -6,7 +6,8 @@
 
 1.将待抠图的图片放到input文件夹中，然后启动程序。
 
-https://github.com/facebookresearch/segment-anything记得在这里下载vit_h的模型
+https://github.com/facebookresearch/segment-anything
+记得在这里下载vit_h的模型
 
 2.选点模式（一个一个来，一次性多个点抠图效果一般）：
 

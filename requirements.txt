@@ -1,0 +1,15 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+idna==3.4
+numpy==1.24.2
+opencv-python==4.5.5.64
+Pillow==9.5.0
+pip==21.1.1
+requests==2.28.2
+segment-anything==1.0
+setuptools==56.0.0
+torch==1.13.1+cu116
+torchaudio==0.13.1+cu116
+torchvision==0.14.1+cu116
+typing-extensions==4.5.0
+urllib3==1.26.15

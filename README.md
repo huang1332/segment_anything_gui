@@ -1,6 +1,7 @@
 # segment_anything_gui
 
-**也可以直接将seg5.py文件复制到segment_anything项目下使用**
+
+## **也可以直接将seg5.py文件复制到segment_anything项目下使用**
 
 这是一个类似PS的抠图工具，支持cpu和英伟达gpu。推荐opencv-python版本4.5.5.64（4.x大概都能跑）
 

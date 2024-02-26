@@ -1,9 +1,6 @@
 # segment_anything_gui
 
---- 
-## **也可以直接将seg5.py文件复制到segment_anything项目下使用**
 
----
 
 ## 使用方法
 
@@ -42,6 +39,11 @@ https://github.com/facebookresearch/segment-anything
 5.保存切出来的图片
 
 程序将在output文件夹中生成抠好的图片，新切割出来图片的文件名会自增。
+
+--- 
+## **也可以直接将seg5.py文件复制到segment_anything项目下使用**
+
+---
 
 
 

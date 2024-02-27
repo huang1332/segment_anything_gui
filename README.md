@@ -47,7 +47,7 @@ https://github.com/facebookresearch/segment-anything
 
 --- 
 ## **也可以直接将seg5.py文件复制到segment_anything项目下使用**
-
+## **You can also directly copy the seg5.py file to the segment_anything project for use**
 ---
 
 
@@ -74,6 +74,8 @@ Press the q key to delete the last selected point.
 
 Press the s key to save the segmentation result (if a mask has been generated).
 
+Press + or - to zoom in or out of the window
+
 Mask selection mode:
 
 Press the w key to use the model for prediction and enter the mask selection mode.
@@ -83,6 +85,8 @@ In the mask selection mode, you can press the a and d keys to switch between dif
 Press the s key to save the segmentation result.
 
 Press the w key to return to point selection mode. The model will predict based on this mask the next time.
+
+Press + or - to zoom in or out of the window
 
 Return to point selection mode to iteratively optimize selected points:
 

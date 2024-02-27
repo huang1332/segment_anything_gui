@@ -8,7 +8,8 @@
 
 使用方法
 
-0. 打开程序文件，修改配置
+0.打开程序文件，修改配置
+   
 ```
   input_dir = r'G:\xiaowu-pic\133_select_new'
   output_dir = r'G:\xiaowu-pic\133_new_segment'

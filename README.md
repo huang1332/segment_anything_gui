@@ -21,6 +21,8 @@ https://github.com/facebookresearch/segment-anything
 
 按下s键保存抠图结果（如果有生成过Mask的话）。
 
+按下 `+`或`-`放大或缩小窗口
+
 
 3.Mask选取模式：
 
@@ -32,6 +34,8 @@ https://github.com/facebookresearch/segment-anything
 
 按下w键返回选点模式，下次模型将会在此mask基础上进行预测
 
+按下 `+`或`-`放大或缩小窗口
+
 4.返回选点模式，迭代优化选点
 
 把不需要的地方右键点一下，需要但mask没覆盖的地方左键点一下，几个点就行，别太多了
@@ -39,6 +43,7 @@ https://github.com/facebookresearch/segment-anything
 5.保存切出来的图片
 
 程序将在output文件夹中生成抠好的图片，新切割出来图片的文件名会自增。
+
 
 --- 
 ## **也可以直接将seg5.py文件复制到segment_anything项目下使用**

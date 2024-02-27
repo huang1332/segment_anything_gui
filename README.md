@@ -1,5 +1,9 @@
 # segment_anything_gui
 
+
+
+## 使用方法
+
 这是一个类似PS的抠图工具，支持cpu和英伟达gpu。推荐opencv-python版本4.5.5.64（4.x大概都能跑）
 
 使用方法
@@ -35,6 +39,11 @@ https://github.com/facebookresearch/segment-anything
 5.保存切出来的图片
 
 程序将在output文件夹中生成抠好的图片，新切割出来图片的文件名会自增。
+
+--- 
+## **也可以直接将seg5.py文件复制到segment_anything项目下使用**
+
+---
 
 
 
